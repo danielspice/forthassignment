@@ -1,0 +1,47 @@
+body{
+    background-color: purple;
+}
+
+.container{
+    text-align: center;
+    background-color: white;
+    margin: 10px auto;
+    max-width: 400px;
+    border-radius: 15px
+}
+.rate{
+    border-radius: 15px;
+    width: 400px;
+}
+.cate{
+    color: grey;
+}
+
+.manhood{
+    background-color: whitesmoke;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+
+.laptop{
+    background-color: blue;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px; 
+    margin: 10px auto;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.h52{
+    text-align: end;
+    text-decoration: underline;
+    color: blue;
+    float: inline-end;
+    float: right;
+    margin: 0;
+    border: 10px ;
+}
